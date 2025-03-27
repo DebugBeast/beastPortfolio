@@ -36,16 +36,6 @@ npm start
 
 Edit `src/portfolio.js` to update your details like skills, experience, and projects. Themes can be modified in `src/theme.js`.
 
-## Chatbot Integration 🤖
-
-This portfolio includes a **Botpress chatbot** for interaction. You can integrate or modify the chatbot by following these steps:
-
-1. Add the Botpress script to your project.
-2. Replace the script URL with your own Botpress **Bot ID**.
-3. Ensure the script is set to load asynchronously for smooth performance.
-4. Adjust chatbot settings (e.g., appearance delay, position, etc.) as needed.
-5. If necessary, update or customize the chatbot behavior via the Botpress dashboard.
-
 
 ## Deployment 🚀
 
