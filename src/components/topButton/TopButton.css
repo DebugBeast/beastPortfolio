@@ -2,7 +2,7 @@
   visibility: hidden;
   position: fixed;
   bottom: 1.2rem;
-  left: 1.5rem; /* Move to the left side */
+  right: 1.5rem; /* Move to the right side */
   cursor: pointer;
   padding: 15px;
   outline: none;

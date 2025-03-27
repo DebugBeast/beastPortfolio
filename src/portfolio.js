@@ -34,7 +34,7 @@ const socialMediaLinks = [
   // github: "https://github.com/DebugBeast",
   // linkedin: "https://www.linkedin.com/in/debugbeast/",
   // gmail: "debugbeast@gmail.com",
-
+  // facebook: "https://www.facebook.com/DebugBeastX/",
 
   {
     name: "Github",
@@ -53,6 +53,12 @@ const socialMediaLinks = [
     link: "mailto:debugbeast@gmail.com",
     fontAwesomeIcon: "fa-google", // Reference https://fontawesome.com/icons/google?style=brands
     backgroundColor: "#D14836", // Reference https://simpleicons.org/?q=gmail
+  },
+  {
+    name: "Facebook",
+    link: "https://www.facebook.com/DebugBeastX/",
+    fontAwesomeIcon: "fa-facebook-f", // Reference https://fontawesome.com/icons/facebook-f?style=brands
+    backgroundColor: "#1877F2", // Reference https://simpleicons.org/?q=facebook
   },
 ];
 
@@ -670,7 +676,7 @@ const contactPageData = {
     title: "Contact Me",
     profile_image_path: "contactme_logo.png",
     description:
-      "Have a project idea to discuss? Feel free to reach out! You can connect with me on LinkedIn or send me an email. I usually respond within 24 hours.",
+      "Have a project idea to discuss? Feel free to reach out! You can contact me at the places mentioned below. I usually respond within 24 hours.",
   },
   blogSection: {
     title: "Blogs",
