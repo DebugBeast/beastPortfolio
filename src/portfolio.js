@@ -190,13 +190,6 @@ const skills = {
             color: "#663399",
           },
         },
-        {
-          skillName: "Django",
-          fontAwesomeClassname: "simple-icons:django",
-          style: {
-            color: "#02569B",
-          },
-        },
       ],
     },
     {
