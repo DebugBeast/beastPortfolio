@@ -61,9 +61,10 @@ export function Navbar() {
       >
         <div className="flex items-center justify-between h-12 px-4">
           {/* Logo */}
-          <div className="cursor-pointer" onClick={handleLogoClick}>
+          <a href="#" className="cursor-pointer">
             <img src="/assets/favicon.png" alt="Logo" className="h-8 w-auto" />
-          </div>
+          </a>
+
 
           {/* Desktop Navigation */}
           <div className="hidden lg:flex space-x-5 items-center relative">
