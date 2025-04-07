@@ -21,8 +21,6 @@ const skills = [
   // { name: "MongoDB", icon: SiMongodb, color: "#47a248", url: "https://www.mongodb.com/" },
   // { name: "Prisma", icon: SiPrisma, color: "#186997", url: "https://www.prisma.io/" },
   // { name: "Firebase", icon: IoLogoFirebase, color: "#ffca28", url: "https://firebase.google.com/" },
-  // { name: "C++", icon: SiCplusplus, color: "#00599c", url: "https://cplusplus.com/" },
-  // { name: "Java", icon: FaJava, color: "#f7b731", url: "https://www.java.com/" },
   // { name: "Python", icon: FaPython, color: "#306998", url: "https://www.python.org/" },
   // { name: "AWS", icon: FaAws, color: "#ff9900", url: "https://aws.amazon.com/" },
   { name: "VS Code", icon: VscVscode, color: "#007acc", url: "https://code.visualstudio.com/" },
